@@ -1,6 +1,8 @@
 # Netflix_sql_projecg
 # 🎬 Netflix Movies & TV Shows — SQL Data Analysis
 
+![Netflix Logo](logo.png)
+
 ## 📌 About the Project
 
 This project is a **SQL-based data analysis of Netflix Movies and TV Shows** using PostgreSQL.
