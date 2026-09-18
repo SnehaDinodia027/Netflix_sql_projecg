@@ -24,16 +24,11 @@ The goal is to demonstrate practical **SQL and data analysis skills** using a re
 
 ## 📂 Dataset
 
-The project uses the Netflix Movies and TV Shows dataset containing information about:
+## 📂 Dataset
 
-* Movies & TV Shows
-* Directors & Cast
-* Countries
-* Release Years
-* Ratings
-* Duration
-* Genres
-* Descriptions
+The data for this project is sourced from the Kaggle dataset:
+
+* **Dataset Link:** [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ---
 
