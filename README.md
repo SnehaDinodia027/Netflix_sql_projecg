@@ -1,7 +1,7 @@
 # Netflix_sql_projecg
 # 🎬 Netflix Movies & TV Shows — SQL Data Analysis
 
-![Netflix Logo](logo.png)
+![Netflix Logo](https://github.com/SnehaDinodia027/Netflix_sql_projecg/blob/main/Netflix-Logo.png)
 
 ## 📌 About the Project
 
